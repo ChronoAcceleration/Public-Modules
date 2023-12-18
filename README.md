@@ -4,5 +4,5 @@ Welcome to the Public Modules repository! This repository houses a collection of
 
 ## Table of Contents
 
-- [Glitcher Module](#glitcher-module)
+- [Glitcher Module](#GlitcherModule)
 - More to come...
