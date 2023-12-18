@@ -4,5 +4,5 @@ Welcome to the Public Modules repository! This repository houses a collection of
 
 ## Table of Contents
 
-- [Glitcher Module](#GlitcherModule/readme.md)
+- [Glitcher Module](https://github.com/ChronoAcceleration/Public-Modules/blob/main/GlitcherModule/readme.md)
 - More to come...
