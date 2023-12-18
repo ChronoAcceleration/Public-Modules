@@ -61,6 +61,6 @@ glitcherInstance:Remove()
 
 Make sure to include the Glitcher UI (`GlitcherUI`) within your game's GUI for the module to work correctly.
 
-Feel free to explore and customize the Glitcher module to suit your game's aesthetic and requirements. If you encounter any issues or have suggestions, please feel free to [report them](https://github.com/your-repository/issues).
+Feel free to explore and customize the Glitcher module to suit your game's aesthetic and requirements. If you encounter any issues or have suggestions, please feel free to [report them](https://github.com/your-repository/issues](https://github.com/ChronoAcceleration/Public-Modules/issues)https://github.com/ChronoAcceleration/Public-Modules/issues).
 
 Happy glitching!
