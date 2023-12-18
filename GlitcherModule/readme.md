@@ -56,6 +56,7 @@ glitcherInstance:Remove()
 ### Note
 
 Make sure to include the Glitcher UI (`GlitcherUI`) within your game's GUI for the module to work correctly.
+The sounds aren't publicly shared, however if you intend to use this, be sure to open a issue or pull request.
 
 Feel free to explore and customize the Glitcher module to suit your game's aesthetic and requirements. If you encounter any issues or have suggestions, please feel free to [report them](https://github.com/your-repository/issues](https://github.com/ChronoAcceleration/Public-Modules/issues)https://github.com/ChronoAcceleration/Public-Modules/issues).
 
